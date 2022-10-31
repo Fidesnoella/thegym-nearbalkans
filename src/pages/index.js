@@ -118,7 +118,7 @@ export default function Home() {
     <div className='flex items-center flex-col-reverse  lg:flex-row justify-between px-6 lg:px-28 mt-10 lg:mt-36'>
       <div className='relative text-center lg:text-left'>
       <h1 class="text-dark font-medium text-2xl lg:text-4xl leading-44">NEAR Development 101</h1>
-      <a href="/#"><button class="text-dark mt-3 border-dark focus:outline-none cursor-pointer border-2 leading-4 w-fit border-solid rounded-full px-5 py-3 inline-block">Start Course</button></a>
+      <a href="#"><button class="text-dark mt-3 border-dark focus:outline-none cursor-pointer border-2 leading-4 w-fit border-solid rounded-full px-5 py-3 inline-block">Start Course</button></a>
       <div class="bg-bottomdevelopment w-1067 h-240 top-5 -left-15 absolute hidden lg:block opacity-90 blur-sm"></div>
       </div>
       <div className='lg:w-400 lg:h-400 w-180 h-180'>
